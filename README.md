@@ -1,7 +1,7 @@
 Zetharius Frames
 ====================
 
-Be gnetle, it is my first time...
+Be gentle, it is my first time...
 
 # Create frames
 ```lua
@@ -23,11 +23,11 @@ To obtain the info from the client.
 # Notes 
 
 * Remember that the layers on which frames can be set are:
-	* 1 - BACKGROUND
-	* 2 - BORDER
-	* 3 - ARTWORK
-	* 4 - OVERLAY
-	* 5 - HIGHLIGHT
+	# - BACKGROUND
+	# - BORDER
+	# - ARTWORK
+	# - OVERLAY
+	# - HIGHLIGHT
 
 * To extract the files from wow:
 ~console
