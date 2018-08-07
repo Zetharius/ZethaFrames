@@ -1,9 +1,9 @@
 Zetharius Frames
 ====================
 
-Be gentle, it is my first time...
+_Be gentle, it is my first time..._
 
-# Create frames
+## Create frames
 ```lua
 local myFrame =Create("Frame"); --Creates a generic Frame
 ```
@@ -23,15 +23,17 @@ To obtain the info from the client.
 # Notes 
 
 * Remember that the layers on which frames can be set are:
-	# - BACKGROUND
-	# - BORDER
-	# - ARTWORK
-	# - OVERLAY
-	# - HIGHLIGHT
+	1. - BACKGROUND
+	2. - BORDER
+	3. - ARTWORK
+	4. - OVERLAY
+	5. - HIGHLIGHT
 
 * To extract the files from wow:
-~console
+** ~console **
+```console
 exportInterfaceFiles code
 exportInterfaceFiles art
+```
 * To view the files use<<BLP converter from wowinterface>>
 
