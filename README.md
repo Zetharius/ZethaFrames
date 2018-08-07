@@ -23,14 +23,14 @@ To obtain the info from the client.
 # Notes 
 
 * Remember that the layers on which frames can be set are:
-	1. - BACKGROUND
-	2. - BORDER
-	3. - ARTWORK
-	4. - OVERLAY
-	5. - HIGHLIGHT
+	1. BACKGROUND
+	2. BORDER
+	3. ARTWORK
+	4. OVERLAY
+	5. HIGHLIGHT
 
 * To extract the files from wow:
-** ~console **
+**~console**
 ```console
 exportInterfaceFiles code
 exportInterfaceFiles art
