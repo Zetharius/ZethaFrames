@@ -3,7 +3,7 @@ Zetharius Frames
 
 Be gnetle, it is my first time...
 
-##Create frames
+## Create frames
 ```lua
 local myFrame =Create("Frame"); --Creates a generic Frame
 ```
@@ -20,7 +20,7 @@ local fontString = myFrame:CreateFontString(nil, "BACKGROUND")  --Creates a font
 
 To obtain the info from the client.
 
-##Notes 
+## Notes 
 
 *Remember that the layers on which frames can be set are:
 		**1 - BACKGROUND
