@@ -3,24 +3,24 @@ Zetharius Frames
 
 Be gnetle, it is my first time...
 
-## Create frames
+# Create frames
 ```lua
 local myFrame =Create("Frame"); --Creates a generic Frame
 ```
 
-# Create Textures
+## Create Textures
 ```lua
 local texture = myFrame:CreateTexture(nil, "BACKGROUND") --Creates a Texture ofr the Frame
 ```
 
-# Create Fonts
+## Create Fonts
 ```lua
 local fontString = myFrame:CreateFontString(nil, "BACKGROUND")  --Creates a font String for the Frame
 ```
 
 To obtain the info from the client.
 
-## Notes 
+# Notes 
 
 * Remember that the layers on which frames can be set are:
 	* 1 - BACKGROUND
